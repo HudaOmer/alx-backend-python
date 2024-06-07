@@ -2,7 +2,7 @@
 - Solutions By Huda Omer
 ## 13 tasks
 
-#Skills:
+# Skills:
 `Python`
 `Back-end`
 
@@ -48,3 +48,17 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your classes should have a documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'`)
 - All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+
+# Tasks:
+# `0. Basic annotations - add`
+# `1. Basic annotations - concat`
+# `2. Basic annotations - floor`
+# `3. Basic annotations - to string`
+# `4. Define variables`
+# `6. Complex types - mixed list`
+# `7. Complex types - string and int/float to tuple`
+# `8. Complex types - functions`
+# `9. Let's duck type an iterable object`
+# `10. Duck typing - first element of a sequence`
+# `11. More involved type annotations`
+# ``
