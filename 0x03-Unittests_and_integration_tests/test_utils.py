@@ -32,7 +32,4 @@ class TestAccessNestedMap(unittest.TestCase):
         """
          unit test for utils.access_nested_map
         """
-        result = get_value_from_nested_map(nested_map, path)
-        self.assertEqual(result, expected_result)
-
-
+        self.assertEqual(access_nested_map(nested_map, path), expected_result)
